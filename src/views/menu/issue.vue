@@ -35,8 +35,7 @@ export default {};
 .bg-purple {
   // background: #d3dce6;
 }
-.ng {
-}
+
 .bg-purple-light {
   background: #e5e9f2;
 }
